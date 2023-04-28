@@ -697,12 +697,12 @@ More thanks will be given at the end of the tutorial.
 
 Starting off in this site I recommend starting with `Stock 1ST_READ.BIN`.  
 Under `Game Modifications` tab set whatever settings you want but make sure to select `11702 CDI Binhack` (Thank you PAXTEZ for adding this!):  
-![GameBuilding_008](images/GameBuilding_008.png)
+![GameBuilding_008](images/GameBuilding_008.png)  
 Make your selections, what matters for custom stages is the custom stages tab:  
 > ![GameBuilding_003](images/GameBuilding_003.png)  
 > The action column is what you should be checking for your desired stage, here you can also pick premade stages to package with your `1ST_READ.BIN`.  
 > For the purpose of this tutorial we will be changing STG02 to custom (I really set them all to custom but will be replacing STG02).  
-> I recommend selecting this last check box as it will give you a IP.BIN that will in making sure the game boots:  
+> I recommend selecting this last check box in the `DOWNLOAD` tab as it will give you a IP.BIN that will in making sure the game boots:  
 > ![GameBuilding_004](images/GameBuilding_004.png)  
 > Download the files with the download button, and extract them to a temporary folder. Make sure to also backup the game's files.  
 > ![GameBuilding_005.png](images/GameBuilding_005.png)  
@@ -728,4 +728,10 @@ In order to make it for your directories heres a template
 
 Change anything in the `<>` angle brackets. to the appropriate things in your project.  
 
+Since I selected to replace the STG02POL.BIN (the factory) we select that stage and see what we need to adjust...  
+it
 
+This is what I see:  
+![GameBuilding_009](images/GameBuilding_009.png)
+
+Super Jumping around we can get a feel of how the assets move relative to one another
